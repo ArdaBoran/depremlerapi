@@ -54,7 +54,7 @@ Datas are pulling from Kandilli Rasathanesi that affiliated to Bogazici Universi
 
 Veriler Boğaziçi Üniversitesi Rektörlüğüne bağlı olan Kandilli rasathanesinden alınmaktadır. Ticari amaçlı kullanmadan önce lütfen Boğaziçi Üniversitesi ile iletişime geçin.
 
-You can contact with me through ismetalpceylan@gmail.com
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
